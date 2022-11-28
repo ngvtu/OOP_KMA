@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTH3/BTH3.iml" filepath="$PROJECT_DIR$/BTH3/BTH3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi_2_L7/Buoi_2_L7.iml" filepath="$PROJECT_DIR$/Buoi_2_L7/Buoi_2_L7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi_3_L7/Buoi_3_L7.iml" filepath="$PROJECT_DIR$/Buoi_3_L7/Buoi_3_L7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi_3_L7/src/Buoi_3_L71.iml" filepath="$PROJECT_DIR$/Buoi_3_L7/src/Buoi_3_L71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buoi_4_l7/Buoi_4_l7.iml" filepath="$PROJECT_DIR$/Buoi_4_l7/Buoi_4_l7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De-3/De-3.iml" filepath="$PROJECT_DIR$/ôn thi/De-3/De-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De1/De1.iml" filepath="$PROJECT_DIR$/ôn thi/De1/De1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De1moi/De1moi.iml" filepath="$PROJECT_DIR$/ôn thi/De1moi/De1moi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De2/De2.iml" filepath="$PROJECT_DIR$/ôn thi/De2/De2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De3/De3.iml" filepath="$PROJECT_DIR$/ôn thi/De3/De3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De3NV/De3NV.iml" filepath="$PROJECT_DIR$/ôn thi/De3NV/De3NV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De3_LH/De3_LH.iml" filepath="$PROJECT_DIR$/ôn thi/De3_LH/De3_LH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De4/De4.iml" filepath="$PROJECT_DIR$/ôn thi/De4/De4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_1/De_1.iml" filepath="$PROJECT_DIR$/ôn thi/De_1/De_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_10/De_10.iml" filepath="$PROJECT_DIR$/ôn thi/De_10/De_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_2/De_2.iml" filepath="$PROJECT_DIR$/ôn thi/De_2/De_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_5/De_5.iml" filepath="$PROJECT_DIR$/ôn thi/De_5/De_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_6/De_6.iml" filepath="$PROJECT_DIR$/ôn thi/De_6/De_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_7/De_7.iml" filepath="$PROJECT_DIR$/ôn thi/De_7/De_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_8/De_8.iml" filepath="$PROJECT_DIR$/ôn thi/De_8/De_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ôn thi/De_9/De_9.iml" filepath="$PROJECT_DIR$/ôn thi/De_9/De_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTH3/QuanLy.iml" filepath="$PROJECT_DIR$/BTH3/QuanLy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buoi 1/buoi 1.iml" filepath="$PROJECT_DIR$/buoi 1/buoi 1.iml" />
+    </modules>
+  </component>
+</project>
